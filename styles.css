@@ -21,7 +21,8 @@ body {
     text-align: start;
 }
 .secondcolumn{
-    width:200px;
+    width:500px;
+    margin:0;
 }
 .link-color{
     color:#007185;
